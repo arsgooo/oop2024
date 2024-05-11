@@ -1,0 +1,164 @@
+[
+    {
+        "application_id": 1,
+        "priority": 0,
+        "principalInfo": {
+            "name": "John",
+            "surname": "Smith",
+            "phone_number": "1234567890",
+            "email": "john.smith@example.com",
+            "address": "1 Mozart Street, Austria, Salzburg"
+        },
+        "parentInfo": {
+            "name": "Michael",
+            "surname": "Brown",
+            "phone_number": "2345678901",
+            "email": "michael.brown@example.com"
+        },
+        "childInfo": {
+            "name": "Emma",
+            "surname": "Brown",
+            "birth_date": "2010-01-01",
+            "address": "2 Beethoven Street, Austria, Salzburg"
+        },
+        "educationForm": "Full-time",
+        "supportNeeded": true,
+        "date": "2024-05-01",
+        "status": "pending"
+    },
+    {
+        "application_id": 2,
+        "priority": 1,
+        "principalInfo": {
+            "name": "John",
+            "surname": "Smith",
+            "phone_number": "1234567890",
+            "email": "john.smith@example.com",
+            "address": "1 Mozart Street, Austria, Salzburg"
+        },
+        "parentInfo": {
+            "name": "Emma",
+            "surname": "Johnson",
+            "phone_number": "3456789012",
+            "email": "emma.johnson@example.com"
+        },
+        "childInfo": {
+            "name": "Oliver",
+            "surname": "Johnson",
+            "birth_date": "2012-03-15",
+            "address": "3 Bach Street, Austria, Salzburg"
+        },
+        "educationForm": "Full-time",
+        "supportNeeded": false,
+        "date": "2024-05-02",
+        "status": "pending"
+    },
+    {
+        "application_id": 3,
+        "priority": 2,
+        "principalInfo": {
+            "name": "John",
+            "surname": "Smith",
+            "phone_number": "1234567890",
+            "email": "john.smith@example.com",
+            "address": "1 Mozart Street, Austria, Salzburg"
+        },
+        "parentInfo": {
+            "name": "Sophia",
+            "surname": "Taylor",
+            "phone_number": "4567890123",
+            "email": "sophia.taylor@example.com"
+        },
+        "childInfo": {
+            "name": "Liam",
+            "surname": "Taylor",
+            "birth_date": "2015-06-20",
+            "address": "4 Haydn Street, Austria, Salzburg"
+        },
+        "educationForm": "Distance Learning",
+        "supportNeeded": true,
+        "date": "2024-05-03",
+        "status": "pending"
+    },
+    {
+        "application_id": 4,
+        "priority": 3,
+        "principalInfo": {
+            "name": "John",
+            "surname": "Smith",
+            "phone_number": "1234567890",
+            "email": "john.smith@example.com",
+            "address": "1 Mozart Street, Austria, Salzburg"
+        },
+        "parentInfo": {
+            "name": "Olivia",
+            "surname": "Davis",
+            "phone_number": "5678901234",
+            "email": "olivia.davis@example.com"
+        },
+        "childInfo": {
+            "name": "Ava",
+            "surname": "Davis",
+            "birth_date": "2017-09-10",
+            "address": "5 Strauss Street, Austria, Salzburg"
+        },
+        "educationForm": "Distance Learning",
+        "supportNeeded": false,
+        "date": "2024-05-04",
+        "status": "pending"
+    },
+    {
+        "application_id": 5,
+        "priority": 4,
+        "principalInfo": {
+            "name": "John",
+            "surname": "Smith",
+            "phone_number": "1234567890",
+            "email": "john.smith@example.com",
+            "address": "1 Mozart Street, Austria, Salzburg"
+        },
+        "parentInfo": {
+            "name": "William",
+            "surname": "Wilson",
+            "phone_number": "6789012345",
+            "email": "william.wilson@example.com"
+        },
+        "childInfo": {
+            "name": "Ethan",
+            "surname": "Wilson",
+            "birth_date": "2019-12-25",
+            "address": "6 Mozart Street, Austria, Salzburg"
+        },
+        "educationForm": "Full-time",
+        "supportNeeded": true,
+        "date": "2024-05-05",
+        "status": "pending"
+    },
+    {
+        "application_id": 6,
+        "priority": 0,
+        "principalInfo": {
+            "name": "John",
+            "surname": "Smith",
+            "phone_number": "1234567890",
+            "email": "john.smith@example.com",
+            "address": "1 Mozart Street, Austria, Salzburg"
+        },
+        "parentInfo": {
+            "name": "Amelia",
+            "surname": "Harris",
+            "phone_number": "7890123456",
+            "email": "amelia.harris@example.com"
+        },
+        "childInfo": {
+            "name": "Lily",
+            "surname": "Harris",
+            "birth_date": "2022-04-30",
+            "address": "7 Beethoven Street, Austria, Salzburg"
+        },
+        "educationForm": "Full-time",
+        "supportNeeded": false,
+        "date": "2024-05-06",
+        "status": "pending"
+    }
+]
